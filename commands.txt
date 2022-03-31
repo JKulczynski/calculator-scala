@@ -1,0 +1,10 @@
++ 4 5
+- 8
++ 5
+-
+PRINT
+- 7
+PRINT
+# cos
+PRINT
+/ 2
